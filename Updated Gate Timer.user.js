@@ -19,6 +19,7 @@
     const appDiv = document.createElement("div");
     appDiv.id = "app";
     containerDiv.appendChild(appDiv)
+    console.log("hello")
 
 
 const FULL_DASH_ARRAY = 283;
