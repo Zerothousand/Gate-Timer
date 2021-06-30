@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Updated Gate Timer
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
+// @updateURL    https://github.com/Zerothousand/Gate-Timer/blob/main/Updated%20Gate%20Timer.user.js
 // @description  try to take over the world!
 // @author       Zerothousand
 // @match        https://tie.tomalprremote.com/*
